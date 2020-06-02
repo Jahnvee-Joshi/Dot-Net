@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Practicals\\digitToWords\\Practical 5.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\DotNet\\digitToWords\\Practical 5.csproj",
       "projectName": "Practical 5",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Practicals\\digitToWords\\Practical 5.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\DotNet\\digitToWords\\Practical 5.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Practicals\\digitToWords\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\DotNet\\digitToWords\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
