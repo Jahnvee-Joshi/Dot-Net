@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="ChangeColourLabel.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="TextBoxConfig.WebForm1" %>
 
 <!DOCTYPE html>
 
@@ -9,18 +9,14 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Change the color of this label:
-            <asp:Label ID="lblChangingColor" runat="server" Font-Bold="True" Font-Size="30pt" Text="Label"></asp:Label><br/><br/>
-            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Change Color" />
+            You can enable and disable this textbox:
+            <asp:TextBox ID="txtEnableDisable" runat="server"></asp:TextBox>
+            <br />
+            <asp:Button ID="btnEnableDisable" runat="server" OnClick="btnEnableDisable_Click" Text="Enable/Disable" />
+            <br />
+            <asp:TextBox ID="TextBox1" runat="server" Width="117px"></asp:TextBox>
+            <asp:Button ID="btnChangeWidth" runat="server" OnClick="btnChangeWidth_Click" Text="Change Width" />
         </div>
-
-        <asp:Panel ID="Panel1" runat="server">
-            <asp:Button ID="Button2" runat="server" BackColor="Yellow" Height="50px" OnClick="Button2_Click" Width="50px" />
-            <asp:Button ID="Button3" runat="server" BackColor="Red" Height="50px" OnClick="Button3_Click" Width="50px" />
-            <asp:Button ID="Button4" runat="server" BackColor="#0033CC" Height="50px" OnClick="Button4_Click" Width="50px" />
-            &nbsp;
-            <asp:Button ID="btnSetColor" runat="server" OnClick="btnSetColor_Click" Text="Select" />
-        </asp:Panel>
     </form>
 </body>
 </html>

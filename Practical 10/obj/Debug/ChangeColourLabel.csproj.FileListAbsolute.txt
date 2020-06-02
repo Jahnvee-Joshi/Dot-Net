@@ -1,6 +1,3 @@
-E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\obj\Debug\CheckEmptyString.csproj.CoreCompileInputs.cache
-E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\obj\Debug\Practical 10.dll
-E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\obj\Debug\Practical 10.pdb
 E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\bin\Practical 10.dll.config
 E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\bin\Practical 10.dll
 E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\bin\Practical 10.pdb
@@ -55,4 +52,7 @@ E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\b
 E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\bin\roslyn\VBCSCompiler.exe.config
 E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\obj\Debug\CheckEmptyString.csproj.CopyComplete
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\obj\Debug\ChangeColourLabel.csproj.CoreCompileInputs.cache
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\obj\Debug\ChangeColourLabel.csproj.CopyComplete
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\obj\Debug\Practical 10.dll
+E:\Learn\College\Sem-6\NET Technology\Azure DevOps\DotNet\10. CheckEmptyString\obj\Debug\Practical 10.pdb
