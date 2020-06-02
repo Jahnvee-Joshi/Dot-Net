@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\bin\Debug\netcoreapp3.1\currencyConverot.exe
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\bin\Debug\netcoreapp3.1\currencyConverot.deps.json
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\bin\Debug\netcoreapp3.1\currencyConverot.runtimeconfig.json
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\bin\Debug\netcoreapp3.1\currencyConverot.runtimeconfig.dev.json
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\bin\Debug\netcoreapp3.1\currencyConverot.dll
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\bin\Debug\netcoreapp3.1\currencyConverot.pdb
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\obj\Debug\netcoreapp3.1\currencyConverot.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\obj\Debug\netcoreapp3.1\currencyConverot.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\obj\Debug\netcoreapp3.1\currencyConverot.AssemblyInfo.cs
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\obj\Debug\netcoreapp3.1\currencyConverot.dll
+C:\Users\HP\source\repos\currencyConverot\currencyConverot\obj\Debug\netcoreapp3.1\currencyConverot.pdb

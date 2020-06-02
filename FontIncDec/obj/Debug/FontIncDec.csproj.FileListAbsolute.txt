@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Practicals\FontIncDec\bin\Debug\FontIncDec.exe.config
+C:\Users\HP\source\repos\Practicals\FontIncDec\bin\Debug\FontIncDec.exe
+C:\Users\HP\source\repos\Practicals\FontIncDec\bin\Debug\FontIncDec.pdb
+C:\Users\HP\source\repos\Practicals\FontIncDec\obj\Debug\FontIncDec.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Practicals\FontIncDec\obj\Debug\FontIncDec.Form1.resources
+C:\Users\HP\source\repos\Practicals\FontIncDec\obj\Debug\FontIncDec.Properties.Resources.resources
+C:\Users\HP\source\repos\Practicals\FontIncDec\obj\Debug\FontIncDec.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Practicals\FontIncDec\obj\Debug\FontIncDec.exe
+C:\Users\HP\source\repos\Practicals\FontIncDec\obj\Debug\FontIncDec.pdb

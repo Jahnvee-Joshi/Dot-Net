@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\iSalesman\iSalesman\bin\Debug\netcoreapp3.1\iSalesman.exe
+C:\Users\HP\source\repos\iSalesman\iSalesman\bin\Debug\netcoreapp3.1\iSalesman.deps.json
+C:\Users\HP\source\repos\iSalesman\iSalesman\bin\Debug\netcoreapp3.1\iSalesman.runtimeconfig.json
+C:\Users\HP\source\repos\iSalesman\iSalesman\bin\Debug\netcoreapp3.1\iSalesman.runtimeconfig.dev.json
+C:\Users\HP\source\repos\iSalesman\iSalesman\bin\Debug\netcoreapp3.1\iSalesman.dll
+C:\Users\HP\source\repos\iSalesman\iSalesman\bin\Debug\netcoreapp3.1\iSalesman.pdb
+C:\Users\HP\source\repos\iSalesman\iSalesman\obj\Debug\netcoreapp3.1\iSalesman.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\iSalesman\iSalesman\obj\Debug\netcoreapp3.1\iSalesman.AssemblyInfo.cs
+C:\Users\HP\source\repos\iSalesman\iSalesman\obj\Debug\netcoreapp3.1\iSalesman.dll
+C:\Users\HP\source\repos\iSalesman\iSalesman\obj\Debug\netcoreapp3.1\iSalesman.pdb

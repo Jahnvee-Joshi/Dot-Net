@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\dotnet\Validate\Validate\bin\Debug\netcoreapp3.1\Validate.exe
+C:\Users\HP\Desktop\dotnet\Validate\Validate\bin\Debug\netcoreapp3.1\Validate.deps.json
+C:\Users\HP\Desktop\dotnet\Validate\Validate\bin\Debug\netcoreapp3.1\Validate.runtimeconfig.json
+C:\Users\HP\Desktop\dotnet\Validate\Validate\bin\Debug\netcoreapp3.1\Validate.runtimeconfig.dev.json
+C:\Users\HP\Desktop\dotnet\Validate\Validate\bin\Debug\netcoreapp3.1\Validate.dll
+C:\Users\HP\Desktop\dotnet\Validate\Validate\bin\Debug\netcoreapp3.1\Validate.pdb
+C:\Users\HP\Desktop\dotnet\Validate\Validate\obj\Debug\netcoreapp3.1\Validate.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\dotnet\Validate\Validate\obj\Debug\netcoreapp3.1\Validate.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dotnet\Validate\Validate\obj\Debug\netcoreapp3.1\Validate.AssemblyInfo.cs
+C:\Users\HP\Desktop\dotnet\Validate\Validate\obj\Debug\netcoreapp3.1\Validate.dll
+C:\Users\HP\Desktop\dotnet\Validate\Validate\obj\Debug\netcoreapp3.1\Validate.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Pattern.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\HP\Desktop\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb

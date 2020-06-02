@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Practicals\digitToWords\bin\Debug\netcoreapp3.1\digitToWords.exe
+C:\Users\HP\source\repos\Practicals\digitToWords\bin\Debug\netcoreapp3.1\digitToWords.deps.json
+C:\Users\HP\source\repos\Practicals\digitToWords\bin\Debug\netcoreapp3.1\digitToWords.runtimeconfig.json
+C:\Users\HP\source\repos\Practicals\digitToWords\bin\Debug\netcoreapp3.1\digitToWords.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Practicals\digitToWords\bin\Debug\netcoreapp3.1\digitToWords.dll
+C:\Users\HP\source\repos\Practicals\digitToWords\bin\Debug\netcoreapp3.1\digitToWords.pdb
+C:\Users\HP\source\repos\Practicals\digitToWords\obj\Debug\netcoreapp3.1\digitToWords.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Practicals\digitToWords\obj\Debug\netcoreapp3.1\digitToWords.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Practicals\digitToWords\obj\Debug\netcoreapp3.1\digitToWords.AssemblyInfo.cs
+C:\Users\HP\source\repos\Practicals\digitToWords\obj\Debug\netcoreapp3.1\digitToWords.dll
+C:\Users\HP\source\repos\Practicals\digitToWords\obj\Debug\netcoreapp3.1\digitToWords.pdb

@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Practical 1.exe
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Practical 1.deps.json
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Practical 1.runtimeconfig.json
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Practical 1.runtimeconfig.dev.json
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Practical 1.dll
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\bin\Debug\netcoreapp3.1\Practical 1.pdb
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Practical 1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Practical 1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Practical 1.AssemblyInfo.cs
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Practical 1.dll
+C:\Users\HP\Desktop\extra\dotnet\dotnetsolution\Pattern\obj\Debug\netcoreapp3.1\Practical 1.pdb
