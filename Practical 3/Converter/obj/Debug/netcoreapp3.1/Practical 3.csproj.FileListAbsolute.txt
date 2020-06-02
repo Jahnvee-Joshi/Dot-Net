@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Practical 3.exe
+C:\Users\HP\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Practical 3.deps.json
+C:\Users\HP\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Practical 3.runtimeconfig.json
+C:\Users\HP\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Practical 3.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Practical 3.dll
+C:\Users\HP\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Practical 3.pdb
+C:\Users\HP\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Practical 3.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Practical 3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Practical 3.AssemblyInfo.cs
+C:\Users\HP\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Practical 3.dll
+C:\Users\HP\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Practical 3.pdb
