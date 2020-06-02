@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\currencyConverot\\currencyConverot\\Practical 6.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\DotNet\\Practical 6\\currencyConverot\\Practical 6.csproj",
       "projectName": "Practical 6",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\currencyConverot\\currencyConverot\\Practical 6.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\DotNet\\Practical 6\\currencyConverot\\Practical 6.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\currencyConverot\\currencyConverot\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\DotNet\\Practical 6\\currencyConverot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

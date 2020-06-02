@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\extra\\dotnet\\Validate\\Validate\\Practical 2.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\DotNet\\Practical 2\\Validate\\Practical 2.csproj",
       "projectName": "Practical 2",
-      "projectPath": "C:\\Users\\HP\\Desktop\\extra\\dotnet\\Validate\\Validate\\Practical 2.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\DotNet\\Practical 2\\Validate\\Practical 2.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\extra\\dotnet\\Validate\\Validate\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\DotNet\\Practical 2\\Validate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

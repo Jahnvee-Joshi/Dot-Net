@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Salesman\\Salesman\\Salesman.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\DotNet\\Salesman\\Salesman\\Salesman.csproj",
       "projectName": "Salesman",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Salesman\\Salesman\\Salesman.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\DotNet\\Salesman\\Salesman\\Salesman.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Salesman\\Salesman\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\DotNet\\Salesman\\Salesman\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

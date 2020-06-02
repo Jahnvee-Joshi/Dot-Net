@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\temperatureConverot\\temperatureConverot\\Practical 7.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\DotNet\\Practical 7\\temperatureConverot\\Practical 7.csproj",
       "projectName": "Practical 7",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\temperatureConverot\\temperatureConverot\\Practical 7.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\DotNet\\Practical 7\\temperatureConverot\\Practical 7.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\temperatureConverot\\temperatureConverot\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\DotNet\\Practical 7\\temperatureConverot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

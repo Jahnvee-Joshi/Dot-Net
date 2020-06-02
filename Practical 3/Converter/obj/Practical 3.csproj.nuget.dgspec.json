@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Converter\\Converter\\Practical 3.csproj": {}
+    "C:\\Users\\HP\\Documents\\DotNet\\Practical 3\\Converter\\Practical 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Converter\\Converter\\Practical 3.csproj": {
+    "C:\\Users\\HP\\Documents\\DotNet\\Practical 3\\Converter\\Practical 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Converter\\Converter\\Practical 3.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\DotNet\\Practical 3\\Converter\\Practical 3.csproj",
         "projectName": "Practical 3",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Converter\\Converter\\Practical 3.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\DotNet\\Practical 3\\Converter\\Practical 3.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Converter\\Converter\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\DotNet\\Practical 3\\Converter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Practicals\\dotnetproject\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\DotNet\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Practicals\\dotnetproject\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\DotNet\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Practicals\\dotnetproject\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\DotNet\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
