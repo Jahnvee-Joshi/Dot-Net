@@ -22,8 +22,7 @@
                     <td><asp:TextBox ID="txtMobile" runat="server"></asp:TextBox></td>
                 </tr>
                 <tr>
-                    <td colspan="2"><asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" /></td>
-                    
+                    <td colspan="2"><asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" /></td>                    
                 </tr>
             </table>
         </div>
